@@ -1,0 +1,4 @@
+<map id="poclu_bswap_cl_float2_array" name="poclu_bswap_cl_float2_array">
+<area shape="rect" id="node1" title="Byte swap functions for endianness swapping between the host (current CPU) and a target device." alt="" coords="5,5,173,47"/>
+<area shape="rect" id="node2" href="$bswap_8c.html#a7b84f2bae2463bbbcb57f078412a17ee" title="internal function to compare device&#45; to host&#45;endianness." alt="" coords="221,13,324,39"/>
+</map>

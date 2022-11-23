@@ -1,0 +1,4 @@
+<map id="poclu_show_program_build_log" name="poclu_show_program_build_log">
+<area shape="rect" id="node1" title="print program build log of each device to stderr." alt="" coords="5,5,165,47"/>
+<area shape="rect" id="node2" href="$misc_8c.html#a2a5a1c164e2f6ba8b94631b2ed2582f6" title="check a return value of CL function or print the error to stderr." alt="" coords="213,13,329,39"/>
+</map>
